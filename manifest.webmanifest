@@ -1,0 +1,26 @@
+{
+  "id": "/remont-chaika-app/",
+  "name": "Ремонт и Чайка — Сметчик",
+  "short_name": "Сметчик",
+  "description": "Сметы, финансы и документы строительной фирмы",
+  "lang": "ru",
+  "start_url": "/remont-chaika-app/?source=installed",
+  "scope": "/remont-chaika-app/",
+  "display": "standalone",
+  "background_color": "#f7f8f5",
+  "theme_color": "#173f38",
+  "icons": [
+    {
+      "src": "/remont-chaika-app/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/remont-chaika-app/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
